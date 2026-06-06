@@ -1,0 +1,27 @@
+[
+    {
+        "Author": "向坂环",
+        "Name": "Roll Stat",
+        "InternalName": "RollStat",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "统计 /random 掷骰结果，自动判定赢家",
+        "Description": "监听聊天中的 /random 掷骰消息，记录每位玩家的 ROLL 点并按规则（最高分/最低分/中间值）高亮赢家。支持自然 ROLL 和限定范围 ROLL 两种模式，范围锁定保证公平。",
+        "IconUrl": "",
+        "RepoUrl": "https://github.com/ffxivaichat/DalamudPlugins",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "ROLL",
+            "随机",
+            "掷骰",
+            "工具"
+        ],
+        "DalamudApiLevel": 15,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip"
+    }
+]
