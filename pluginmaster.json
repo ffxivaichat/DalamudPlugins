@@ -23,5 +23,30 @@
         "DownloadLinkInstall": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ffxivaichat/DalamudPlugins/releases/download/RollStat-1.0.0.0/latest.zip"
+    },
+    {
+        "Author": "向坂环",
+        "Name": "躲猫猫",
+        "InternalName": "HideCatCat",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "躲猫猫多人小游戏",
+        "Description": "猫队抓鼠队的多人躲猫猫游戏。猫队需要在限定时间内抓住所有鼠队玩家，鼠队需要躲避追捕存活到时间结束。猫队靠近鼠队5码以内即判定抓住。同服同图才能加入同一房间。",
+        "IconUrl": "",
+        "RepoUrl": "https://github.com/ffxivaichat/HideCatCat",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "躲猫猫",
+            "hidecatcat",
+            "小游戏",
+            "minigame"
+        ],
+        "DalamudApiLevel": 15,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0/latest.zip"
     }
 ]
