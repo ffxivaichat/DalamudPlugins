@@ -20,9 +20,9 @@
         "IsTestingExclusive": false,
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip"
+        "DownloadLinkInstall": "https://github.com/ffxivaichat/TeachMeBro/releases/download/v1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ffxivaichat/TeachMeBro/releases/download/v1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ffxivaichat/TeachMeBro/releases/download/v1.0.0/latest.zip"
     },
     {
         "Author": "向坂环",
