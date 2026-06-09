@@ -1,6 +1,31 @@
 [
     {
         "Author": "向坂环",
+        "Name": "TeachMeBro",
+        "InternalName": "TeachMeBro",
+        "AssemblyVersion": "1.0.0.0",
+        "Punchline": "聊天信号全屏警告蒙层",
+        "Description": "监听聊天消息中的触发关键词，全屏显示径向渐变彩色闪烁蒙层。支持多规则触发、自定义颜色、地图过滤、透明范围调节。",
+        "IconUrl": "",
+        "RepoUrl": "https://github.com/ffxivaichat/TeachMeBro",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "PvP",
+            "提醒",
+            "信号",
+            "工具"
+        ],
+        "DalamudApiLevel": 15,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ffxivaichat/TeachMeBro/raw/main/latest.zip"
+    },
+    {
+        "Author": "向坂环",
         "Name": "Roll Stat",
         "InternalName": "RollStat",
         "AssemblyVersion": "1.0.0.0",
