@@ -53,7 +53,7 @@
         "Author": "向坂环",
         "Name": "躲猫猫",
         "InternalName": "HideCatCat",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "Punchline": "躲猫猫多人小游戏",
         "Description": "猫队抓鼠队的多人躲猫猫游戏。猫队靠近鼠队5码即判定抓住。越界5秒自动判抓。距边界10yalms触发径向渐变红色蒙版（越近越浓）+ 插件界面文字警告。自定义服务器地址下拉框持久化历史。",
         "IconUrl": "",
@@ -70,8 +70,8 @@
         "IsTestingExclusive": false,
         "LastUpdated": 0,
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ffxivaichat/HideCatCatPlugin/releases/download/v1.0.0.2/latest.zip"
     }
 ]
